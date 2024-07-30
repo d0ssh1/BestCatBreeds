@@ -1,0 +1,40 @@
+{
+  "destinations": [
+    {
+      "name": "Siamese",
+      "slug": "siamese",
+      "image": "siamese.jpg",
+      "id": 1,
+      "description":
+      "The Siamese cat is one of the first distinctly recognized breeds of Asian cat. Derived from the Wichianmat landrace, one of several varieties of cat native to Thailand (formerly known as Siam), the Siamese became one of the most popular breeds in Europe and North America in the 19th century.",
+      "experiences": []
+    },
+    {
+      "name": "Persian",
+      "slug": "persian",
+      "image": "persian.jpg",
+      "id": 2,
+      "description":
+      "The Persian cat is a long-haired breed of cat characterized by its round face and short muzzle. It is also known as the 'Persian Longhair'. In the Middle East, they are widely known as 'Iranian cat' and in Iran they are known as 'Shirazi cat'.",
+      "experiences": []
+    },
+    {
+      "name": "Maine Coon",
+      "slug": "maine-coon",
+      "image": "maine-coon.jpg",
+      "id": 3,
+      "description":
+      "The Maine Coon is the largest domesticated cat breed. It has a distinctive physical appearance and is known for its friendly, playful personality. It is one of the oldest natural breeds in North America, specifically native to the state of Maine, where it is the official state cat.",
+      "experiences": []
+    },
+    {
+      "name": "Bengal",
+      "slug": "bengal",
+      "image": "bengal.jpg",
+      "id": 4,
+      "description":
+      "The Bengal cat is a domesticated cat breed created from hybrids of domestic cats, the Asian leopard cat (Prionailurus bengalensis) and the Egyptian Mau, which gives them their golden shimmer. They have a wild appearance with large spots, rosettes, and a light/white belly.",
+      "experiences": []
+    }
+  ]
+}
