@@ -11,7 +11,7 @@ export default {
 
 <template>
   <div id="nav">
-    <router-link id="logo" to="/">Cat Breads</router-link>
+    <router-link id="logo" to="/">Cat Breeds</router-link>
     <router-link
         v-for="destination in destinations"
         :key="destination.id"
